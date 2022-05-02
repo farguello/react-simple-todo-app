@@ -44,6 +44,7 @@ const deleteButtonClassList = [
     "p-2",
     "text-center text-white",
     "rounded-xl",
+    "border-2 border-red-600",
     "bg-red-600 hover:bg-red-400",
     "hover:cursor-pointer"
 ]
@@ -53,6 +54,7 @@ const editButtonClassList = [
     "p-2",
     "text-center text-white",
     "rounded-xl",
+    "border-2 border-purple-600",
     "bg-purple-600 hover:bg-purple-400",
     "hover:cursor-pointer"
 ]
